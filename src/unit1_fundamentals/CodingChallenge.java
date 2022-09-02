@@ -9,5 +9,14 @@ public class CodingChallenge {
         System.out.println("\tEggs");
         System.out.println("\t\tFree-range");
         System.out.println("\tBread");
+        exercise();
+    }
+
+    public static void exercise() {
+        System.out.println("\n\nThe");
+        System.out.println("\tCake");
+        System.out.print("Is");
+        System.out.println("\t\tA");
+        System.out.print("\tLie.");
     }
 }
