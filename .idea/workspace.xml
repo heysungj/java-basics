@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd03e48d-b0f7-4d1a-a17d-fd129b6957a1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/unit1_fundamentals/CodingChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit1_fundamentals/CodingChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit1_fundamentals/Section5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit1_fundamentals/UserInput1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit1_fundamentals/UserInput1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CodingChallenge">
+  <component name="RunManager" selected="Application.Section5">
     <configuration name="CodingChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="unit1_fundamentals.CodingChallenge" />
       <module name="HelloWorld" />
@@ -56,6 +58,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Section5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit1_fundamentals.Section5" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unit1_fundamentals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UserInput1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="unit1_fundamentals.UserInput1" />
       <module name="HelloWorld" />
@@ -65,6 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Section5" />
         <item itemvalue="Application.CodingChallenge" />
         <item itemvalue="Application.UserInput1" />
         <item itemvalue="Application.HelloWorld" />
