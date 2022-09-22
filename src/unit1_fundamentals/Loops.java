@@ -33,8 +33,8 @@ public class Loops {
         while (going) {
             System.out.print("Enter password: ");
             String pass = sc.nextLine();
-            if (pass == password) {
-
+//            System.out.print(pass);
+            if (pass.equals(password)) {
                 System.out.print("Access Aprroved ");
                 going = false;
             }
