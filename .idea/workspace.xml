@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd03e48d-b0f7-4d1a-a17d-fd129b6957a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/unit1_fundamentals/IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unit1_fundamentals/Loops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IfStatement">
+  <component name="RunManager">
     <configuration name="CodingChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="unit1_fundamentals.CodingChallenge" />
       <module name="HelloWorld" />
