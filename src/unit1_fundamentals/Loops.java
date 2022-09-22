@@ -1,5 +1,6 @@
 package unit1_fundamentals;
 import java.util.Scanner;
+import java.util.concurrent.ThreadLocalRandom;
 
 public class Loops {
     public static void main(String[] args) {
@@ -37,6 +38,30 @@ public class Loops {
             if (pass.equals(password)) {
                 System.out.print("Access Aprroved ");
                 going = false;
+            }
+        }
+
+//        Exercise 5
+//Create a game where the program picks a random number from 1 to 100 and the player has to guess it. Each time the player makes a guess, print “HIGHER” if the guess was too low or “LOWER” if the guess was too high. If the player correctly guesses the number, print “CORRECT”, then end the game.
+//
+//You can use the line of code below which produces a random number from 1 to 100, and stores it in randomNumber.
+        int counter = 0;
+        boolean guess = true;
+        int random = ThreadLocalRandom.current().nextInt(1, 10);
+
+        while(guess){
+            System.out.print("Guess the number:  ");
+            int num = sc.nextInt();
+            if(num == random) {
+                counter++;
+                guess = false;
+                System.out.format("You win!!The number is %d and you have guessed %d time", num, counter);
+            } else if (num < random) {
+                System.out.print("HIGHER ");
+                counter++;
+            } else {
+                System.out.print("LOWER ");
+                counter++;
             }
         }
     }

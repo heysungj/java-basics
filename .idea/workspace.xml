@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd03e48d-b0f7-4d1a-a17d-fd129b6957a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/unit1_fundamentals/Loops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit1_fundamentals/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit1_fundamentals/Loops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
